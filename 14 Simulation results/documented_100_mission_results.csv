@@ -1,0 +1,7 @@
+Configuration,HIGH,VERIFY+,Duplicate candidates / mission,False VERIFY / mission
+Full vision + thermal + audio + tracking,0.31,0.84,0.05,1.09
+Vision + thermal,0.24,0.83,0.02,1.11
+Thermal + audio,0.06,0.55,0.03,0.59
+Thermal only,0.00,0.50,0.03,0.59
+Audio only,0.00,0.16,0.00,0.08
+No association/merge,0.00,0.92,3.97,3.93

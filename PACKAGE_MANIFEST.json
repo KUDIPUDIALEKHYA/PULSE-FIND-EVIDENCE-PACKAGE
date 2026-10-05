@@ -1,0 +1,27 @@
+{
+  "project": "PULSEFIND",
+  "folders": [
+    "01 Documentation",
+    "02 Architecture",
+    "03 Hardware",
+    "04 Firmware",
+    "05 Packet protocol",
+    "06 Evidence engine",
+    "07 Candidate engine",
+    "08 Dashboard",
+    "09 Automated tests",
+    "10 Physical test records",
+    "11 Raw sensor logs",
+    "12 Packet logs",
+    "13 Replay data",
+    "14 Simulation results",
+    "15 Ablation results",
+    "16 Baseline results",
+    "17 Test report",
+    "18 Photos",
+    "19 Demo video",
+    "20 Final presentation"
+  ],
+  "source_basis": "User-supplied PULSEFIND dossier",
+  "fabrication_policy": "No fake physical logs, photos, measurements or hardware claims."
+}
